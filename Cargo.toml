@@ -1,0 +1,4 @@
+[workspace]
+members = ["wall_geometry_base"]
+
+resolver = "3"
